@@ -1,0 +1,11 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÇÉ¹¾şÿÿÿÿ8Š¨¾Í›2J$9a1ec5f0-22ac-4fd1-8586-691da5f721a8
+˜
+java:S3655+"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(–ì³Ñüÿÿÿÿ8Œ¨¾Í›2J$6364d867-ff34-4627-97c8-896e615404d4
+˜
+java:S3655&"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(ºÑÿÿÿÿÿ8Œ¨¾Í›2J$8e239320-440b-4f4b-8438-3ba538895d60
+~	java:S125"<This block of commented-out lines of code should be removed.(™ØæË8èš¿Í›2J$ad376542-d30e-4fe1-9a55-0f92e3fa58c4
+r	java:S106/"+Replace this use of System.out by a logger.(½¢óùÿÿÿÿ8—¨¾Í›2J$1c1c9c43-c882-44c7-8c5d-8353485c48e6
+m	java:S1060"+Replace this use of System.out by a logger.(ı¨¯ì8˜¨¾Í›2J$92c81d63-9547-4be3-a1c2-b8b792b7f4b7
+r	java:S1061"+Replace this use of System.out by a logger.(²³ôßşÿÿÿÿ8˜¨¾Í›2J$994575af-d6f7-4a6b-b54b-e4a21d341f23
+m	java:S1062"+Replace this use of System.out by a logger.(ñ½Ã¨8˜¨¾Í›2J$d9262564-6f7a-41ff-8be3-dbb99f4a4ee5
